@@ -17,8 +17,8 @@ It's only required to run
 $ npm run tests
 
 ## run the script
-It's onlu required to run
-$ npm run longest <input_expect_a_sequence_of_0s_and_1s>
+It's only required to run the next call example, feel free to change the numbers sequence
+$ npm run longest 1,1,1,0,1,1,1,1,1,0
 
 ## License
 Since this was done with a MIT license feel free to use it and fork itt to update it on your own
