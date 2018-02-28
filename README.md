@@ -14,10 +14,12 @@ $ npm install
 
 ## to run tests
 It's only required to run
+
 $ npm run tests
 
 ## run the script
 It's only required to run the next call example, feel free to change the numbers sequence
+
 $ npm run longest 1,1,1,0,1,1,1,1,1,0
 
 ## License
